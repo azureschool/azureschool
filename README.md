@@ -1,28 +1,14 @@
-### Azure School MD documentation
-📫 How to reach me: https://azureschool.tv
+## Azure School MD documentation
+###Welcome to Azure School documentation!
 
-
-Welcome to Azure School documentation!
-
-Contents:
-
-    Authors
-    Installation
-    Template
-        Features
-        Installation
-        Contribute
-        Support
-        License
-    Usage
-
-Indices and tables
-
-    Index
-
-    Module Index
-
-    Search Page
+- 🔭 I’m currently working on Microsoft Azure Cloud Video Courses
+- 🌱 I’m currently learning Cloud Powershell
+- 👯 I’m looking to collaborate on the Azure School community
+- 🤔 I’m looking for help with building a new Powershell repository
+- 💬 Ask me about Azure
+- 📫 How to reach me: https://azureschool.tv
+- 😄 Pronouns: none
+- ⚡ Fun fact: none
 
 
 
