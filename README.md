@@ -1,30 +1,14 @@
 ## Azure School MD documentation
 ### Welcome to Azure School documentation!
 
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
-==================================================
+- 🔭 I’m currently working on Azure
+- 🌱 I’m currently learning Powershell
+- 👯 I’m looking to collaborate on Azure
+- 🤔 I’m looking for help with Github
+- 💬 Ask me about Azure
+📫 How to reach me: https://azureschool.tv
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   *
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 
 
